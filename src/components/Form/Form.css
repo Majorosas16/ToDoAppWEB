@@ -1,6 +1,6 @@
 body {
   font-family: 'monserrat', sans-serif;
-  background-color: #f5f7fa;
+  background-color: #414141;
   margin: 0;
   padding: 20px;
   color: #cb5c5c;
@@ -113,7 +113,7 @@ body {
 }
 
 .submit-btn {
-  background-color: #4a6bdf;
+  background-color: #ec8728;
   color: white;
   border: none;
   padding: 12px;
@@ -126,7 +126,7 @@ body {
 }
 
 .submit-btn:hover {
-  background-color: #3a5ad1;
+  background-color: #c0640e;
   transform: translateY(-2px);
 }
 
